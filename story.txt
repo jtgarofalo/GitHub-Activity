@@ -12,3 +12,8 @@
   The doctor told Jim he cold only wait for the cold to pass. Jim was disappointed he could not speed up his recovery.
   However, Jim decide to make the best of his situation. Jim started to practice dancing. He had always wanted be able to sing
   and dance, but he had spent too much of his time on singing. When his cold went away Jim was happy with his new ability.
+  
+  Alternate Ending:
+  The doctor didn't show up for his computer science project, so he could not attend to the patient. Jim ended up dying because
+  he developed pneumonia, which the doctor would have noticed if he gave him his GitHub username. Instead, the doctor caused
+  there to be two endings in this story, as another member had to be added to this project, whose username was supplied.
